@@ -29,4 +29,3 @@
 * [Intel OpenVINO Notebooks Pages](https://openvinotoolkit.github.io/openvino_notebooks/)
 * [Intel Edge AI Suite 使用者案例](https://www.intel.com/content/www/us/en/software/edge-platform-industry.html#tab-blade-1-0)
 * [Roboflow 部落格案例研究](https://blog.roboflow.com/tag/case-studies/)
-* 
