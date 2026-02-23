@@ -1,5 +1,7 @@
 # 邊緣人工智慧實務（EE5354701）─ Ch1. 邊緣人工智慧簡介
 
+<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch1_Introduction/2026_NTUST_EdgeAI_Ch01_Edge%20AI.jpg" width="640">
+
 1.1. 邊緣智慧發展歷史
 * AI 發展重要里程碑 
 * AI 發展寒冬與爆發
@@ -29,3 +31,4 @@
 * [Intel OpenVINO Notebooks Pages](https://openvinotoolkit.github.io/openvino_notebooks/)
 * [Intel Edge AI Suite 使用者案例](https://www.intel.com/content/www/us/en/software/edge-platform-industry.html#tab-blade-1-0)
 * [Roboflow 部落格案例研究](https://blog.roboflow.com/tag/case-studies/)
+
