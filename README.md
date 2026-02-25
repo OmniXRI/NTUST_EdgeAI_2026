@@ -8,7 +8,7 @@
 
 <img src="https://hackmd.io/_uploads/ByAGZ3H_Wx.png" width="160">
 
-**許哲豪 (Jack Hsu) 博士**
+**許哲豪 (Jack Hsu) 博士**  
 臺灣科技大學 電機工程系 產碩專班 兼任助理教授  
 電子信箱：omnixri@gmail.com  
 個人網站：https://omnixri.blogspot.com/  
