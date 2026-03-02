@@ -1,7 +1,7 @@
-邊緣人工智慧實務（EE5354701）─ Ch2. 邊緣運算硬體架構
+# 邊緣人工智慧實務（EE5354701）─ Ch2. 邊緣運算硬體架構
 
 
-<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch1_Introduction/2026_NTUST_EdgeAI_Ch01_Edge%20AI.jpg" width="640">
+<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch2_Hardware/2026_NTUST_EdgeAI_Ch02_Hardware.jpg" width="640">
 
 ## 2.1. 基本運算原理
 
@@ -91,3 +91,4 @@ https://omnixri.blogspot.com/2023/03/vmaker-edge-ai-03-ai.html
 https://omnixri.blogspot.com/2023/02/vmaker-edge-ai-02-ai.html  
 * 許哲豪， Nvidia GTC 2024 提出的 FP8/FP4 如何加速AI訓練及推論  
 https://omnixri.blogspot.com/2024/03/nvidia-gtc-2024-fp8fp4-ai.html  
+
