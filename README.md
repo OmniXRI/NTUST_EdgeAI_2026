@@ -38,7 +38,7 @@
 | 01 | 2026/02/23 | 0. 課程簡介 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch0_Course) |
 | 01 | 2026/02/23 | 1. 邊緣人工智慧簡介<br>　1.1. 邊緣智慧發展歷史<br>　1.2. 邊緣智慧基本原理<br>　1.3. 邊緣智慧應用情境 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch1_Introduction) |
 | 02 | 2026/03/02 | 2. 邊緣運算硬體架構<br>　2.1. 基本運算原理<br>　2.2. 加速運算晶片<br>　2.3. 嵌入式級硬體<br>　2.4. AI PC 級硬體 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch2_Hardware) |
-| 03 | 2026/03/09 | 3. 邊緣智慧開發流程<br>　3.1. 資料收集與標註<br>　3.2. 模型選用與訓練<br>　3.3. 專題設計與製作<br>　3.4. 基本工具：Colab, Markdown |  |
+| 03 | 2026/03/09 | 3. 邊緣智慧開發流程<br>　3.1. 資料收集與標註<br>　3.2. 模型選用與訓練<br>　3.3. 專題設計與製作<br>　3.4. 基本工具：Colab, Markdown | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch3_Workflow) |
 | 04 | 2026/03/16 | 4. 開源模型推論工具<br>　4.1. Arm CMSIS<br>　4.2. Edge Impulse<br>　4.3. Intel OpenVINO |  |
 | 05 | 2026/03/23 | <font color="blue">校慶運動會補假</font>  |  |
 | 06 | 2026/03/30 | 5. 模型優化與佈署<br>　5.1 模型訓練優化<br>　5.2 加速訓練方式<br>　5.3 模型推論優化 |  |
