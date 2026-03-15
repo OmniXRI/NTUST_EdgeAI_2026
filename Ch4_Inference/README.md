@@ -1,6 +1,6 @@
 # 邊緣人工智慧實務（EE5354701）─ Ch4. 開源模型推論工具
 
-<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch1_Introduction/2026_NTUST_EdgeAI_Ch01_Edge%20AI.jpg" width="640">
+<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch4_Inference/2026_NTUST_EdgeAI_Ch04_Inference.jpg" width="640">
 
 ## 4.1. Arm CMSIS
 
