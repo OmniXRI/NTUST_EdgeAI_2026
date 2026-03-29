@@ -68,7 +68,8 @@
 
 ## 參考文獻
 
-* 臺灣科技大學資訊工程系 人工智慧與邊緣運算實務 ( CS5149701 )   https://omnixri.blogspot.com/p/ntust-edge-ai.html  
+* 臺灣科技大學資訊工程系 人工智慧與邊緣運算實務 ( CS5149701 )  
+https://omnixri.blogspot.com/p/ntust-edge-ai.html  
 * 陽明交通大學電子工程學系張添烜老師，「深度學習的模型壓縮與加速」(YouTube)  
 https://www.youtube.com/playlist?list=PLj6E8qlqmkFv3cCjjX2SA1D4FJ9fadDij  
 * MIT Han Lab (韓松）,「TinyML and Efficient Deep Learning Computing | MIT 6.5940 Fall 2024」  
