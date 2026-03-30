@@ -41,7 +41,7 @@
 | 03 | 2026/03/09 | 3. 邊緣智慧開發流程<br>　3.1. 資料收集與標註<br>　3.2. 模型選用與訓練<br>　3.3. 專題設計與製作<br>　3.4. 基本工具：Colab, Markdown | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch3_Workflow) |
 | 04 | 2026/03/16 | 4. 開源模型推論工具<br>　4.1. Arm CMSIS<br>　4.2. Edge Impulse<br>　4.3. Intel OpenVINO | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch4_Inference) |
 | 05 | 2026/03/23 | <font color="blue">校慶運動會補假</font>  |  |
-| 06 | 2026/03/30 | 5. 模型優化與佈署<br>　5.1 模型訓練優化<br>　5.2 加速訓練方式<br>　5.3 模型推論優化 |  |
+| 06 | 2026/03/30 | 5. 模型優化與佈署<br>　5.1 模型訓練優化<br>　5.2 加速訓練方式<br>　5.3 模型推論優化 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch5_Optimization) |
 | 07 | 2026/04/06 | **<font color="blue">掃墓節補假</font>**  |  |
 | 08 | 2026/04/13 | **<font color="red">期中考</font>** |  |
 | 09 | 2026/04/20 | 6. Edge AI 案例實作 ─ 影像辨識<br>　6.1. 影像分類<br>　6.2. 物件偵測<br>　6.3 影像分割 |  |
