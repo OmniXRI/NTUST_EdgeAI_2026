@@ -1,4 +1,23 @@
+# 邊緣人工智慧實務（EE5354701）─ Ch6.  Edge AI 實例實作 ─ 影像辨識
 
+<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch6_Image_Recognition/20260420_NTUST_EdgeAI_Ch06_Image_Recognition.jpg" width="640">
+
+## 6.1. 影像辨識簡介
+
+
+## 6.2. 影像分類
+
+
+## 6.3. 物件偵測
+
+
+##  6.4. 影像分割
+
+
+## 參考文獻
+
+
+## 延伸閱讀
 
 
 
