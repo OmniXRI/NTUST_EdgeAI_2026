@@ -44,7 +44,7 @@
 | 06 | 2026/03/30 | 5. 模型優化與佈署<br>　5.1 模型訓練優化<br>　5.2 加速訓練方式<br>　5.3 模型推論優化 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch5_Optimization) |
 | 07 | 2026/04/06 | **<font color="blue">掃墓節補假</font>**  |  |
 | 08 | 2026/04/13 | **<font color="red">期中考</font>** |  |
-| 09 | 2026/04/20 | 6. Edge AI 案例實作 ─ 影像辨識<br> 6.1. 影像辨識簡介<br>　6.2. 影像分類<br>　6.3. 物件偵測<br>　6.4 影像分割 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch6_Image_Recognition) |
+| 09 | 2026/04/20 | 6. Edge AI 案例實作 ─ 影像辨識<br>　6.1. 影像辨識簡介<br>　6.2. 影像分類<br>　6.3. 物件偵測<br>　6.4 影像分割 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch6_Image_Recognition) |
 | 10 | 2026/04/27 | 7. Edge AI 案例實作 ─ 姿態估測<br>　7.1 CMU OpenPose<br>　7.2 Intel OpenVINO<br>　7.3 Google MediaPipe |  |
 | 11 | 2026/05/04 | 8. TinyML 案例實作 ─ 聲音辨識<br>　8.1. 聲音感測器原理<br>　8.2. 喚醒詞偵測<br>　8.3. 環境音辨識 |  |
 | 12 | 2026/05/11 | 9. TinyML 案例實作 ─ 動作辨識<br>　9.1. 運動感測器原理<br>　9.2. 運動手勢辨識<br>　9.3. 異常振動偵測 |  |
