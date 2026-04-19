@@ -23,8 +23,15 @@
 
 範例6-1：OpenCV 常用函式範例  
 
+OpenVINO Notebooks 範例： Convert and Optimize YOLO26 real-time object detection with OpenVINO™   
+https://colab.research.google.com/github/openvinotoolkit/openvino_notebooks/blob/latest/notebooks/yolov26-optimization/yolov26-object-detection.ipynb
 
 範例6-2：下載安裝 Ultralytics YOLO26 並執行基礎物件偵測  
 https://colab.research.google.com/github/OmniXRI/NTUST_EdgeAI_2026/blob/main/Ch6_Image_Recognition/yolov26-object-detection-pytorch.ipynb  
 
 範例6-3：  
+https://colab.research.google.com/github/OmniXRI/NTUST_EdgeAI_2026/blob/main/Ch6_Image_Recognition/yolov26-object-detection-pytorch.ipynb  
+
+範例6-4：  
+
+
