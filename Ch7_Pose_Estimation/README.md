@@ -22,7 +22,7 @@
 * 影像實例分割技術 ─ [Yolact](https://arxiv.org/abs/1904.02689) & [Yolact Edge](https://arxiv.org/abs/2012.12259)   
 * 影像實例分割技術 ─ YOLO 系列  
   *  中研院 (Academia Sinica) [YOLOv7](https://github.com/WongKinYiu/yolov7)  
-  *  Ultralytics [YOLO v8 / v11 / 26] (https://docs.ultralytics.com/tasks/segment/)  
+  *  Ultralytics [YOLO v8 / v11 / 26] (https://docs.ultralytics.com/zh/tasks/segment/)  
 * [Intel OpenVINO YOLO 實例分割範例](https://openvinotoolkit.github.io/openvino_notebooks/?search=YOLO)  
 * 範例7-1：OpenVINO YOLO26 實例分割  
   * 說明文檔：https://github.com/openvinotoolkit/openvino_notebooks/tree/latest/notebooks/yolov26-optimization  
