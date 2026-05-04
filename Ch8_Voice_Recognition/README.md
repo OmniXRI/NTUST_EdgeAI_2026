@@ -58,7 +58,8 @@
 * [ESC-50 環境音公開資料集](https://github.com/karolpiczak/ESC-50)  
 * [Google AudioSet 聲音公開資料集](https://research.google.com/audioset/)  
   * [YAMNet](https://www.tensorflow.org/hub/tutorials/yamnet?hl=zh-cn)  
-* 案例分享 ─ [2024 總統盃黑客松卓越團隊](https://youtu.be/0E5gW9PcSgs)  
+* 案例分享 ─ [2024 總統盃黑客松卓越團隊](https://youtu.be/0E5gW9PcSgs)
+  * [相關報導](https://www.president.gov.tw/News/28977) 
 * 案例分享 ─ Smart Sound Box  
 * 案例分享─[水流聲偵測](https://studio.edgeimpulse.com/public/119084/latest)  
 * 案例分享─[更多聲音相關應用](https://hackmd.io/@OmniXRI-Jack/tinyML_30_projects)  
