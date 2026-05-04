@@ -4,7 +4,8 @@
 
 ## 8.1. 聲音感測器原理  
 
-* 感測器類比/數位信號互換  
+* 感測器類比/數位信號互換
+  * [各類感測器簡介](https://omnixri.blogspot.com/2022/11/20221031week08.html)
 * 常見錄音裝置  
 * 聲音訊號─取樣、量化  
 * 常見聲音訊號波形（時間域）  
@@ -51,7 +52,7 @@
 * Colab 完成模型訓練  
 * 更新 Arduino 函式庫  
 *  NO Code 測試結果  
-*  Arduino 2.0 快速(增量)編譯  
+*  [Arduino 2.0 快速(增量)編譯](https://omnixri.blogspot.com/2024/10/arduino-20.html )  
 
 ## 8.3. 環境音辨識  
 
@@ -66,7 +67,8 @@
 
 ## 參考文獻  
 
-* 臺灣科技大學資訊工程系 人工智慧與邊緣運算實務 ( CS5149701 )    https://omnixri.blogspot.com/p/ntust-edge-ai.html  
+* 臺灣科技大學資訊工程系 人工智慧與邊緣運算實務 ( CS5149701 )  
+https://omnixri.blogspot.com/p/ntust-edge-ai.html  
 * 許哲豪，OmniXRI TinyML 小學堂 (2025) 【第 8 講】聲音辨識應用─環境音辨識  
 https://www.youtube.com/watch?v=xXD8g-BXriU  
 * 許哲豪，如何讓 Arduino 2.0 快速編譯（增量編譯）  
@@ -75,5 +77,3 @@ https://omnixri.blogspot.com/2024/10/arduino-20.html
 https://wiki.seeedstudio.com/XIAO_BLE/  
 * 許哲豪， TinyML應用大全（30組案例分享）  
 https://hackmd.io/@OmniXRI-Jack/tinyML_30_projects  
-
-
