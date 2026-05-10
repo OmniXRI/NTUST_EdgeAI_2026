@@ -1,6 +1,6 @@
 # 邊緣人工智慧實務（EE5354701）─ Ch8  TinyML 案例實作 ─ 聲音辨識
 
-<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch8_Voice_Recognition/20260427_NTUST_EdgeAI_Ch8_Voice_Recognition.jpg" width="640">
+<img src="https://raw.githubusercontent.com/OmniXRI/NTUST_EdgeAI_2026/refs/heads/main/Ch8_Voice_Recognition/20260504_NTUST_EdgeAI_Ch8_Voice_Recognition.jpg" width="640">
 
 ## 8.1. 聲音感測器原理  
 
