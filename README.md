@@ -47,7 +47,7 @@
 | 09 | 2026/04/20 | 6. Edge AI 案例實作 ─ 影像辨識<br>　6.1. 影像辨識簡介<br>　6.2. 影像分類<br>　6.3. 物件偵測 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch6_Image_Recognition) |
 | 10 | 2026/04/27 | 7. Edge AI 案例實作 ─ 影像分割、姿態估測<br>　7.1 影像分割<br>　7.2 姿態估測<br>　7.3 Google MediaPipe | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch7_Pose_Estimation) |
 | 11 | 2026/05/04 | 8. TinyML 案例實作 ─ 聲音辨識<br>　8.1. 聲音感測器原理<br>　8.2. 喚醒詞偵測<br>　8.3. 環境音辨識 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch8_Voice_Recognition) |
-| 12 | 2026/05/11 | 9. TinyML 案例實作 ─ 動作辨識<br>　9.1. 運動感測器原理<br>　9.2. 運動手勢辨識<br>　9.3. 異常振動偵測 |  |
+| 12 | 2026/05/11 | 9. TinyML 案例實作 ─ 動作辨識<br>　9.1. 運動感測器原理<br>　9.2. 運動手勢辨識<br>　9.3. 異常振動偵測 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch9_Motion_Recognition) |
 | 13 | 2026/05/18 | 10. TinyML 案例實作 ─ 智慧影像<br>　10.1. 微型系統開發流程<br>　10.2. 影像物件偵測 <br>　10.3. 模型部署與週邊整合 |  |
 | 14 | 2026/05/25 | 11. AI PC 案例實作 ─ 虛擬代理人<br>　11.1. 語音轉文字<br>　11.2. 大語言模型<br>　11.3. 文字轉語音 |  |
 | 15 | 2026/06/01 | 12. AI PC 案例實作 ─ 影音生成<br>　12.1. 文字生成影像<br>　12.2. 文字生成音樂<br>　12.3. 影像生成影片 |  |
