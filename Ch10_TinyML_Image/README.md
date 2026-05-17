@@ -81,7 +81,7 @@
 ## 參考文獻  
 
 * 臺灣科技大學資訊工程系 人工智慧與邊緣運算實務 ( CS5149701 )  https://omnixri.blogspot.com/p/ntust-edge-ai.html  
-* 許哲豪，OmniXRI TinyML 小學堂 (2025) 第10 ~ 13講
+* 許哲豪，OmniXRI TinyML 小學堂 (2025) 第 10 ~ 13 講  
   * 第10講 https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch10_Image_Classification  
   * 第11講 https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch11_Object_Detection  
   * 第12講 https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch12_Pose_Estimation  
