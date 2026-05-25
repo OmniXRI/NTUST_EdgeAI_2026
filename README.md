@@ -55,11 +55,19 @@
 
 ## 參考資料
 
-* 臺灣科技大學 資訊工程系 產碩專班 人工智慧與邊緣運算實務 ( CS5149701 )  https://omnixri.blogspot.com/p/ntust-edge-ai.html  
-* 歐尼克斯實境互動工作室【部落格】 https://omnixri.blogspot.com  
-* 歐尼克斯實境互動工作室【系列發文】 https://hackmd.io/@OmniXRI-Jack/series_articles  
-* 歐尼克斯實境互動工作室【YOUTUBE】https://www.youtube.com/@omnixri1784  
-* Edge AI Taiwan 邊緣智能交流區 https://www.facebook.com/groups/edgeaitw  
-* Intel OpenVINO Github https://github.com/openvinotoolkit/openvino  
-* Edge Impulse Document https://docs.edgeimpulse.com/  
-* Roboflow https://roboflow.com/  
+* 臺灣科技大學 資訊工程系 產碩專班 人工智慧與邊緣運算實務 ( CS5149701 )   
+https://omnixri.blogspot.com/p/ntust-edge-ai.html    
+* 歐尼克斯實境互動工作室【部落格】  
+https://omnixri.blogspot.com   
+* 歐尼克斯實境互動工作室【系列發文】   
+https://hackmd.io/@OmniXRI-Jack/series_articles    
+* 歐尼克斯實境互動工作室【YOUTUBE】  
+https://www.youtube.com/@omnixri1784    
+* Edge AI Taiwan 邊緣智能交流區  
+https://www.facebook.com/groups/edgeaitw    
+* Intel OpenVINO Github  
+https://github.com/openvinotoolkit/openvino    
+* Edge Impulse Document  
+https://docs.edgeimpulse.com/    
+* Roboflow  
+https://roboflow.com/    
