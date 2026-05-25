@@ -49,7 +49,7 @@
 | 11 | 2026/05/04 | 8. TinyML 案例實作 ─ 聲音辨識<br>　8.1. 聲音感測器原理<br>　8.2. 喚醒詞偵測<br>　8.3. 環境音辨識 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch8_Voice_Recognition) |
 | 12 | 2026/05/11 | 9. TinyML 案例實作 ─ 動作辨識<br>　9.1. 運動感測器原理<br>　9.2. 運動手勢辨識<br>　9.3. 異常振動偵測 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch9_Motion_Recognition) |
 | 13 | 2026/05/18 | 10. TinyML 案例實作 ─ 智慧影像<br>　10.1. 微型系統開發流程<br>　10.2. 影像物件偵測 <br>　10.3. 模型部署與週邊整合 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch10_TinyML_Image) |
-| 14 | 2026/05/25 | 11. AI PC 案例實作 ─ 虛擬代理人<br>　11.1. 語音轉文字<br>　11.2. 大語言模型<br>　11.3. 文字轉語音 |  |
+| 14 | 2026/05/25 | 11. AI PC 案例實作 ─ 虛擬代理人<br>　11.1. 虛擬代理人技術演進<br>　11.2. 語音轉文字<br>　11.3. 大語言模型<br>　11.4. 文字轉語音 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch11_Virtual_Avatar) |
 | 15 | 2026/06/01 | 12. AI PC 案例實作 ─ 影音生成<br>　12.1. 文字生成影像<br>　12.2. 文字生成音樂<br>　12.3. 影像生成影片 |  |
 | 16 | 2026/06/08 | **<font color="red">期末考</font>** |  |
 
