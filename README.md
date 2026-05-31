@@ -50,7 +50,7 @@
 | 12 | 2026/05/11 | 9. TinyML 案例實作 ─ 動作辨識<br>　9.1. 運動感測器原理<br>　9.2. 運動手勢辨識<br>　9.3. 異常振動偵測 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch9_Motion_Recognition) |
 | 13 | 2026/05/18 | 10. TinyML 案例實作 ─ 智慧影像<br>　10.1. 微型系統開發流程<br>　10.2. 影像物件偵測 <br>　10.3. 模型部署與週邊整合 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch10_TinyML_Image) |
 | 14 | 2026/05/25 | 11. AI PC 案例實作 ─ 虛擬代理人<br>　11.1. 虛擬代理人技術演進<br>　11.2. 語音轉文字<br>　11.3. 大語言模型<br>　11.4. 文字轉語音 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch11_Virtual_Avatar) |
-| 15 | 2026/06/01 | 12. AI PC 案例實作 ─ 影音生成<br>　12.1. 文字生成影像<br>　12.2. 文字生成音樂<br>　12.3. 影像生成影片 |  |
+| 15 | 2026/06/01 | 12. 生成式邊緣人工智慧<br>　12.1. 邊緣與生成智慧<br>　12.2. 產業應用與消費者解決方案<br>　12.3. 代理式人工智慧與分散式系統<br>　12.4.硬體優化與平台資源<br>　12.5. 學術與研究基礎 | [PDF](https://github.com/OmniXRI/NTUST_EdgeAI_2026/tree/main/Ch12_Edge_GenAI) |
 | 16 | 2026/06/08 | **<font color="red">期末考</font>** |  |
 
 ## 參考資料
