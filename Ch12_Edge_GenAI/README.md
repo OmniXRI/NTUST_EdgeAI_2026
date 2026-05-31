@@ -58,10 +58,7 @@ Focus: Research-led insights and joint industry-academia collaborations.
 * 臺灣科技大學資訊工程系 人工智慧與邊緣運算實務 ( CS5149701 )  
 https://omnixri.blogspot.com/p/ntust-edge-ai.html  
 * Edge AI Foundation, Generative Edge AI: Reasoning, Agentic & Physical Intelligence   
-  * Day 1 : https://www.edgeaifoundation.org/livestreams/generative-edge-ai-reasoning-agentic-physical-intelligence-3   
+  * Day 1 : https://www.edgeaifoundation.org/livestreams/generative-edge-ai-reasoning-agentic-physical-intelligence-3
   * Day 2 : https://www.edgeaifoundation.org/livestreams/generative-edge-ai-reasoning-agentic-physical-intelligence-2  
-* 許哲豪，Generative Edge AI: Reasoning, Agentic & Physical Intelligence   
+* 許哲豪，Generative Edge AI: Reasoning, Agentic & Physical Intelligence  
 https://hackmd.io/@OmniXRI-Jack/Generative-Edge-AI-Streames-V5  
-
-
-
